@@ -15,4 +15,4 @@ I’m a second-year student at Penn State University (University Park) majoring 
 ## Goals
 I’m actively building technical and professional skills through coursework, projects, and internships, with the goal of working in cybersecurity or government technology roles.
 
-📫 Feel free to connect with me on LinkedIn or explore my repositories below!
+📫 Feel free to connect with me on LinkedIn!
