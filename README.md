@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Vina Dang 👋
 
-<!--
-**VinaDang254/VinaDang254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a second-year student at Penn State University (University Park) majoring in **Security Risk Analysis** and working toward an **NSA certificate**. I’m interested in how technology, risk, and security come together to protect people and systems.
 
-Here are some ideas to get you started:
+## What I’m focused on
+- Cybersecurity and risk management  
+- Government and tech internships  
+- Learning how secure systems support innovation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+- Risk analysis fundamentals  
+- Cybersecurity concepts  
+- Problem-solving and collaboration  
+
+## Goals
+I’m actively building technical and professional skills through coursework, projects, and internships, with the goal of working in cybersecurity or government technology roles.
+
+📫 Feel free to connect with me on LinkedIn or explore my repositories below!
